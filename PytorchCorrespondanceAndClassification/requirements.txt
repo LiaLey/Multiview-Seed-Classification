@@ -1,0 +1,13 @@
+opencv-contrib-python==4.4.0.44
+opencv-python
+numpy
+matplotlib
+pandas
+torch
+torchvision
+Pillow
+python-csv
+python-math
+scikit-image
+scikit-learn
+scikit-metrics
