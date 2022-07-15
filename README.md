@@ -1,11 +1,6 @@
 ## Computer Vision (COMP3029 UNMC) (SPM1 21-22) Coursework
 
-### -> Cloning this repo
-You can clone this repo by doing the following command:
-```
-git clone https://github.com/ChewBoonZhan/PytorchCorrespondanceAndClassification.git
-```
-<br />
+
 
 ### -> Pushing to this github repo
 ```
